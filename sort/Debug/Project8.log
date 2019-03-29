@@ -1,0 +1,6 @@
+﻿  sort.c
+c:\users\user\desktop\project8\project8\sort.c(17): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\user\desktop\project8\project8\sort.c(26): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\user\desktop\project8\project8\sort.c(42): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\user\desktop\project8\project8\sort.c(140): warning C4013: 'partition1'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Project8.vcxproj -> C:\Users\User\Desktop\Project8\Debug\Project8.exe
